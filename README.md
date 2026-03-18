@@ -83,17 +83,20 @@ Software Engineer with 3+ years of experience building reliable, high-performanc
 
 ---
 
-### GitHub Stats
+### Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heena5498&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=d4a853&icon_color=d4a853&text_color=f0ede8" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heena5498&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=d4a853&text_color=f0ede8" height="165" />
-</p>
+🏆 **2nd Place — GDG Hackathon** · Productivity & Automation Category
+
+**[JobWatch](https://github.com/heena5498)** — Eliminates the pain of manually checking company career pages by scraping them directly, filtering by role keywords, detecting recency of postings, and delivering a clean email digest — no noisy job boards, no missed openings.
+
+Built an end-to-end pipeline for Amazon Careers with FastAPI, SQLite (SQLAlchemy), BeautifulSoup, and SMTP. Prototyped a serverless cloud pathway using GCP Cloud Functions + Cloud Scheduler for automated scans without managing infrastructure.
+
+> **Team HustleHub:** Heena Khan · Krishnendra Singh Tomar · Abhigna Kandala · Sanskar Vidyarthi
 
 ---
 
 <p align="center">
   <sub>Open to full-time roles · Washington, DC (Open to relocation) · Available Dec 2026</sub>
 </p>
+
 
