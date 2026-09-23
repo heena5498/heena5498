@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Heena Khan</h1>
 
 <p align="center">
-  <em>Backend Developer &nbsp;·&nbsp; Cloud Engineer &nbsp;·&nbsp; DevOps Engineer &nbsp;·&nbsp; AI Applied Engineer</em><br/>
+  <em>Backend &amp; Platform Engineering &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Applied AI</em><br/>
   <em>MEng Software Engineering + GCEN Cloud Engineering @ University of Maryland, College Park</em>
 </p>
 
@@ -10,20 +10,21 @@
   &nbsp;
   <a href="mailto:hkhan520@umd.edu"><img src="https://img.shields.io/badge/Email-hkhan520@umd.edu-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://portfolio-website-khaki-nine-73.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-website-heenakhan-54.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ### About Me
 
-Software Engineer with 3+ years of experience building reliable, high-performance systems — from embedded C++ cryptography modules to cloud-native microservices and ML pipelines on AWS.
+Software Engineer with 4 years of experience: 3 years writing production C++17 and embedded C on Linux, plus a year of Python, Java and applied AI work. I build things end to end, from requirements conversations through deployment and the monitoring afterwards.
 
-- Reduced function runtime by **80%** refactoring a legacy embedded C++ crypto module at KPIT Technologies
-- Cut manual build setup from **3 hours to 30 minutes** via automation scripts
-- Reduced release-cycle defects by **25%** at Cognizant through root cause analysis across VLAN and networking components
-- Currently pursuing **MEng in Software Engineering + GCEN in Cloud Engineering** @ UMD (GPA: 3.78)
-- Open to full-time roles in **Backend Development, Cloud Engineering, DevOps, and AI Applied Engineering**
+- **AI Engineering Intern at Clarity Healthcare Management (2026)** — owned a Python and FastAPI data service across 3 facilities with deterministic transaction IDs and an audit trail, running with zero data loss; built the HIPAA-aware layer beneath it with log masking
+- Shipped an **LLM agent** with session memory, CRM tool calls, retrieval grounding over company documents, and handoff logic that routes a conversation to a person when the model should stop
+- Cut API and inter-module latency by **80%** on the Adaptive AUTOSAR cryptography functional cluster at KPIT Technologies, by profiling to root cause rather than guessing
+- Authored **100+ GoogleTest cases** with TDD, raising module coverage to **90%**, and migrated a build toolchain from Yocto to Conan that restored automated CI/CD for the team
+- Reduced release-cycle defects by **25%** at Cognizant through regression pipelines and root cause analysis
+- **MEng Software Engineering + GCEN Cloud Engineering @ UMD**, GPA 3.87 · graduating December 2026
 
 ---
 
@@ -40,16 +41,26 @@ Software Engineer with 3+ years of experience building reliable, high-performanc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Frameworks & Application Development**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+**AI & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -60,6 +71,7 @@ Software Engineer with 3+ years of experience building reliable, high-performanc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
@@ -77,59 +89,30 @@ Software Engineer with 3+ years of experience building reliable, high-performanc
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**carebridge-ai**](https://github.com/heena5498/carebridge-ai) | AI-powered healthcare application with intelligent features | JavaScript, AI/ML, Frontend |
-| [**task-scheduler**](https://github.com/heena5498/task-scheduler) | Task scheduling system with intelligent automation | Ruby, Backend |
-| [**ai-sales-chatbot**](https://github.com/heena5498/ai-sales-chatbot) | Intelligent conversational AI for sales automation | Python, AI/ML, NLP |
-| [**aws-fraud-detection-pipeline**](https://github.com/heena5498/aws-fraud-detection-pipeline) | Real-time fraud detection — sub-200ms latency, 1000+ events/sec, XGBoost + LightGBM on AWS Kinesis + Lambda | Python, FastAPI, Kinesis, Lambda, ECS Fargate, DynamoDB, MLflow |
-| [**book-my-event**](https://github.com/heena5498/book-my-event) | Distributed event booking platform — 4 Go microservices on AWS EKS with zero-downtime deployments and full observability | Go, AWS EKS, PostgreSQL, Redis, Elasticsearch, Helm, Prometheus |
-| [**clinical-data-harmonizer**](https://github.com/heena5498/clinical-data-harmonizer) | Reproducible Python ETL framework (Bronze→Silver→Gold) for harmonizing heterogeneous biomedical datasets using the Adapter Pattern and automated CI/CD validation | Python, ETL, Data Engineering |
+| [**aws-fraud-detection-pipeline**](https://github.com/heena5498/aws-fraud-detection-pipeline) | Real-time fraud detection — sub-200ms p95, 1,000+ events/sec, exactly-once processing, XGBoost + LightGBM served from FastAPI | Python, FastAPI, Kinesis, Lambda, ECS Fargate, DynamoDB, MLflow |
+| [**book-my-event**](https://github.com/heena5498/book-my-event) | Distributed event booking platform — 4 Go microservices on AWS EKS with per-service fault isolation, zero-downtime deployments and full observability | Go, AWS EKS, PostgreSQL, Redis, Elasticsearch, Helm, Prometheus |
+| [**ai-sales-chatbot**](https://github.com/heena5498/ai-sales-chatbot) | Conversational agent for sales automation with session state and retrieval grounding | Python, LLM APIs, RAG |
+| [**carebridge-ai**](https://github.com/heena5498/carebridge-ai) | Care-transition tool built at BitCamp Hackathon, from Figma wireframes to working demo in under 48 hours | React, Figma, Python, FastAPI |
+| [**clinical-data-harmonizer**](https://github.com/heena5498/clinical-data-harmonizer) | Reproducible Python ETL framework (Bronze→Silver→Gold) for harmonizing heterogeneous biomedical datasets using the Adapter Pattern, with automated CI/CD validation | Python, ETL, Data Engineering |
+| [**eks-terraform**](https://github.com/heena5498/eks_terraform) | Infrastructure as Code for deploying OpenTelemetry applications on AWS EKS | Terraform, AWS, Kubernetes |
+| [**e-commerce-tf**](https://github.com/heena5498/e-commerce-tf) | E-commerce application provisioned and deployed on AWS entirely through Terraform | Terraform, AWS |
 | [**go-cli**](https://github.com/heena5498/go-cli) | Modular REST API CLI tool with GET/POST/DELETE support, clean separation of concerns, and CI/CD via GitHub Actions | Go, Cobra, GitHub Actions |
-| [**log-detector-tool**](https://github.com/heena5498/log-detector-tool) | Java-based log analysis and detection tool | Java, Logging, Backend |
-| [**eks-terraform**](https://github.com/heena5498/eks_terraform) | Infrastructure as Code for deploying OpenTelemetry applications on AWS EKS | TypeScript, Terraform, AWS, Kubernetes |
+| [**terrapin-events**](https://github.com/heena5498/terrapin-events) | Full-stack event platform handling 500+ automated workflows, with an LLM-backed service layer *(team project, ENPM 613)* | Next.js, TypeScript, React, FastAPI, PostgreSQL, PyTest |
 
----
-
-### Projects by Category
-
-**AI & Machine Learning**
-- [**carebridge-ai**](https://github.com/heena5498/carebridge-ai) — AI-powered healthcare application
-- [**ai-sales-chatbot**](https://github.com/heena5498/ai-sales-chatbot) — Conversational AI for sales automation
-- [**aws-fraud-detection-pipeline**](https://github.com/heena5498/aws-fraud-detection-pipeline) — Real-time ML fraud detection on AWS
-
-**Cloud & DevOps**
-- [**book-my-event**](https://github.com/heena5498/book-my-event) — AWS EKS microservices architecture
-- [**eks-terraform**](https://github.com/heena5498/eks_terraform) — Infrastructure as Code for Kubernetes
-- [**e-commerce-tf**](https://github.com/heena5498/e-commerce-tf) — Terraform-based e-commerce infrastructure
-
-**Backend & System Design**
-- [**task-scheduler**](https://github.com/heena5498/task-scheduler) — Task scheduling system (Ruby)
-- [**go-cli**](https://github.com/heena5498/go-cli) — REST API CLI tool in Go
-- [**log-detector-tool**](https://github.com/heena5498/log-detector-tool) — Java-based log analysis
-
-**Data & ETL**
-- [**clinical-data-harmonizer**](https://github.com/heena5498/clinical-data-harmonizer) — ETL framework for biomedical data harmonization
-- [**job-tracking-system**](https://github.com/heena5498/job-tracking-system) — Job tracking and data aggregation system
-
-**Full-Stack & Frontend**
-- [**terrapin-events**](https://github.com/heena5498/terrapin-events) — Event management platform (Team project: ENPM 613)
-- [**portfolio-website**](https://github.com/heena5498/portfolio_website) — Personal portfolio website
-
-**Educational & Blockchain**
-- [**VotingApp**](https://github.com/heena5498/VotingApp) — Blockchain-based voting application in Java
+**Also here:** [task-scheduler](https://github.com/heena5498/task-scheduler) (Ruby) · [log-detector-tool](https://github.com/heena5498/log-detector-tool) (Java) · [job-tracking-system](https://github.com/heena5498/job-tracking-system) · [VotingApp](https://github.com/heena5498/VotingApp) (blockchain voting, Java) · [portfolio-website](https://github.com/heena5498/portfolio_website)
 
 ---
 
 ### Achievements
+
 🏆 **2nd Place — GDG Hackathon** · Productivity & Automation Category
 
-**[JobWatch](https://github.com/heena5498)** — Eliminates the pain of manually checking company career pages by scraping them directly, filtering by role keywords, detecting recency of postings, and delivering a clean email digest — no noisy job boards, no missed openings.
-
-Built an end-to-end pipeline for Amazon Careers with FastAPI, SQLite (SQLAlchemy), BeautifulSoup, and SMTP. Prototyped a serverless cloud pathway using GCP Cloud Functions + Cloud Scheduler for automated scans without managing infrastructure.
+**JobWatch** — scrapes company career pages directly, filters by role keywords, detects posting recency, and delivers a clean email digest. No job boards, no missed openings. Built end to end for Amazon Careers with FastAPI, SQLite (SQLAlchemy), BeautifulSoup and SMTP, with a prototyped serverless path using GCP Cloud Functions and Cloud Scheduler.
 
 > **Team HustleHub:** Heena Khan · Krishnendra Singh Tomar · Abhigna Kandala · Sanskar Vidyarthi
 
 ---
 
 <p align="center">
-  <sub>Open to full-time roles · Washington, DC (Open to relocation) · Available Dec 2026</sub>
+  <sub>Open to full-time roles · College Park, MD (open to relocation anywhere in the US) · Available January 2027</sub>
 </p>
