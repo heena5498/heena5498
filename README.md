@@ -10,7 +10,7 @@
   &nbsp;
   <a href="mailto:hkhan520@umd.edu"><img src="https://img.shields.io/badge/Email-hkhan520@umd.edu-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://portfolio-website-ow4k1wdwo-heena-khans-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-website-heena-khan-54.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
